@@ -254,20 +254,20 @@ header nav ul li a{
  
 }
 
-.section-two button:hover {
-  background-color: lightgray;
-  color: #4b225e;
-  cursor:pointer;
-}
-
 .section-two button a:link {
   color:lightgrey;
   text-decoration: none;
 }
 
 .section-two button a:visited {
-  color:#cbc3e3;
+  color:darkgrey;
   text-decoration: none;
+}
+
+.section-two button:hover {
+  background-color: lightgray;
+  color: #4b225e;
+  cursor:pointer;
 }
 
 .section-two h3,
